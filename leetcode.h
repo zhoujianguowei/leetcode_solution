@@ -5,8 +5,8 @@
  *      Author: hadoop
  */
 
-//#ifndef LEETCODE_H_
-//#define LEETCODE_H_
+#ifndef LEETCODE_H_
+#define LEETCODE_H_
 #include<iostream>
 #include<vector>
 #include<set>
@@ -630,4 +630,4 @@ string reverseString(string s);
 string addBinary(string a, string b);
 
 //#include<unordered_map>
-//#endif /* LEETCODE_H_ */
+#endif /* LEETCODE_H_ */
